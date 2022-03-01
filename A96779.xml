@@ -1,0 +1,133 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Parliament of the Common-wealth of England, Scotland, and Ireland. The humble petition of George Wither Esq;.</title>
+            <author>Wither, George, 1588-1667.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96779</idno>
+            <idno type="STC">Wing W3201</idno>
+            <idno type="STC">Thomason 669.f.19[60]</idno>
+            <idno type="STC">ESTC R212188</idno>
+            <idno type="EEBO-CITATION">99870833</idno>
+            <idno type="PROQUEST">99870833</idno>
+            <idno type="VID">163397</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96779)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163397)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f19[60])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the Parliament of the Common-wealth of England, Scotland, and Ireland. The humble petition of George Wither Esq;.</title>
+                  <author>Wither, George, 1588-1667.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1655]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>A request to buy the estate of Sir John Denham.</note>
+                  <note>Annotation on Thomason copy: "Jan. 1654".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Denham, John, --  Sir, 1615-1669 --  Estate --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:163397:1" rendition="simple:additions"/>
+            <head>To the Parliament of the Common-wealth of <hi>England, Scotland,</hi> and <hi>Ireland.</hi>
+The humble Petition of <hi>George Wither <abbr>Eſq</abbr>
+               </hi>
+            </head>
+            <opener>SHEWETH.</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat in conſideration of money due to this Petitioner now above eleven years, without Intereſt, and formerly made payable by ſeveral Orders of Parliament, it was at laſt provided in the firſt Act for ſale of eſtates forfeited for Treaſon, that the Truſtees therein named ſhould ſell to this Petitioner, and his heirs, lands, tenements, and heredi<g ref="char:EOLhyphen"/>taments for ſatisfaction of the ſaid debt, to the value of 150. li. <hi>per an.</hi> above all Repri<g ref="char:EOLhyphen"/>zes out of the eſtate of <hi>John Denham</hi> Eſquire, notwithſtanding any thing in the ſaid Act, in any wiſe to the contrary.</p>
+            <p>That the ſaid Truſtees, ſold accordingly to this Petitioner, 150 li. <hi>per annum</hi> out of the Manor of Little <hi>Horſly</hi> in Eſſex, part of the eſtate of the ſaid <hi>Denham,</hi> and (received their ſallery out of this Peti<g ref="char:EOLhyphen"/>tioners own money, which they ought not to have exacted from him) They by the ſame Deed ſold alſo unto him, the reſt of the ſaid Manor for 1645 li. 4s. 9 d. ½. The ſaid purchaſe was made without breach of any Rule in the ſaid Act, either by the Sellers or Buyer, and fully paid for according to Contract; The Deed was ſealed, and inrolled, before any claime upon the Premiſſes was allowed, and after the time limited for allowance of claims was elapſed: The Petitioner, was by orders from the Commiſſioners for removing of Obſtructions and allowing of Claims, put into poſſeſſion by the Sheriff, and there<g ref="char:EOLhyphen"/>upon encouraged to be at great coſt in repairs, in ſtocking part of the land for ſetlement of his family upon it; to demiſe the remainder to ſeveral Tenants with bands reciprocally given for perform<g ref="char:EOLhyphen"/>ance of Covenants; Not doubting after all this, but, that the ſaid Truſtees for the States honour, or for their own credit and indempnity, would have made good their bargain, or procured him as ful recompence, for dammages that ſhould be thereby ſuſtained, without his default, as he might in equi<g ref="char:EOLhyphen"/>ty have recovered from private perſons.</p>
+            <p>That, nevertheleſſe, ſome of the ſaid Truſtees, (when this Petitioner had expended great ſummes upon the Premiſes, beſide his purchaſe money) did, by their Order ſtop his rents, and then reconvey that to another which they had formerly ſold to him, as aforeſaid, (as if they might arbitrarily, ſell, reſume, and ſell again at their pleaſure the ſame land). And they have thereby cauſed the Petiti<g ref="char:EOLhyphen"/>oners tenants to deny his rents and ſervices of Court; encouraged them and others to diſturb him in his Poſſeſſion; to abuſe his ſervants by riotous oppoſitions producing bloodſhed, and to oc<g ref="char:EOLhyphen"/>caſion many vexatious ſuits and expences, which have damnified him in above 600 li. more then he hath raiſed by the premiſſes. And now, lately, for a pretended incumbrance charged upon the ſaid Manor, and claimed by one <hi>Thomas Offly</hi> 
+               <abbr>Eſq</abbr>, this Petitioner is ejected out of his whole purchaſe a<g ref="char:EOLhyphen"/>foreſaid, to the loſſe therewith, of the laſt whole years profit of his ſtock, and much of the principal after payment of all Taxes; and his family, being on a ſudden thrown out, is left deſtitute both of an employment, and of a habitation in the winter among malitiouſly Malignant ſtrangers, above one hundred miles from his other poſſeſſions; which inſtead of the benefit intended him, hath now dam<g ref="char:EOLhyphen"/>nified him, with that and other hinderances, above 4000 li. beſide much vexation and loſſe of time; upon which, the ruine of his eſtate will inevitably follow, if Gods mercy, by the Juſtice of this Parli<g ref="char:EOLhyphen"/>ament, ſhall not ſpeedily prevent it; becauſe, the ſaid Ejectment hath made him liable to an overthrow in near a dozen ſuits, wherein the foundation of his right, is thereby taken away. And, to further his undoing, there is above 660 li. (made payable to him out of Haberdaſhers Hall,) of which he cannot get a penny for his relief; and above 1680 li. more charged by Ordinance of Parliament, upon the Ex<g ref="char:EOLhyphen"/>ciſe in courſe, which hath been due above eleven years yet unpaid; All which ſummed up together, with this Petitioners forbearance and charges, in long proſecution, hath made his ſufferings among his friends, four times more miſchievous unto him, then thoſe he ſuſtained by the common enemy, and fourty times more grievous; yet, much is ſuppoſed by many, to have been done for him heretofore, whereas nothing hath taken effect.</p>
+            <p>In conſideration of the Premiſſes, and for that it would be diſhonourable to the Nation, that their Or<g ref="char:EOLhyphen"/>ders and Acts of Parliament, ſhould be deluſive, or made ſnares deſtructive to them whoſe good was in<g ref="char:EOLhyphen"/>tended, not only to the conſuming their eſtates by delayes, almoſt doubling the years reputed equivalent to a mans life, and at the later end alſo of his dayes, who hath acted and ſuffered for the common Cauſe, and in all points performed his bargain; but alſo, to the expoſing of him in his old age, to vexatious ſuits and quarrels, infringing peace betwixt man and man, to the making of his life weariſome, who had no ſuit for above ſixty years together: In regard likewiſe, that the ſaid <hi>Offlyes</hi> debt (if it be not fraudulent) ought to be paid by the Common-wealth, for that, the lands liable thereto were formerly ſold, as aforeſaid, to diſ<g ref="char:EOLhyphen"/>charge a publike Ingagement, and the profits thereof taken up for the uſe of the State, ſo many years before the ſaid ſale, that the debt was thereby doubled, which might elſe have beene diſcharged thereby, long ago. And laſtly, in reſpect this Petitioner verily beleeveth he can make it evident that the ſaid <hi>Offlyes</hi> claime is forged, to the defrauding the Common-wealth of above 3100 li. which might have beene ſaved, if the Commiſſioners for allowing of claims, had been informed of what this Petitioner hath now to offer.</p>
+            <p>
+               <hi>It is humbly prayed, that this Petitioner may be reſtored againe to the poſſeſſion of that which he hath purchaſ<g ref="char:EOLhyphen"/>ed, as aforeſaid, without waste made, and his dammages repaired: That, all ſuits in relation to the ſaid pur<g ref="char:EOLhyphen"/>chaſe, commenſed againſt him, may be ſtayed untill his grievance ſhall be heard: That, the ſaid</hi> Offlyes <hi>claime and his qualification, making him capable or uncapable (according to the ſaid Act) of having his claime allowed, may be re-examined in Parliament. And, that thoſe things which this Petitioner hath far<g ref="char:EOLhyphen"/>ther to offer in relation to the Premiſſes on the Common-wealths behalfe; or for his own just relief, may be taken into ſpeedy conſideration, And the ſaid Petitioner ſhall continue his prayers for this Parliaments proſ<g ref="char:EOLhyphen"/>perous ſucceſſe.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
